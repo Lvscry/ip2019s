@@ -1,0 +1,24 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+  <rect x="225" y="175" rx="5" ry="5" width="22" height="80" stroke="black" stroke-width="5" fill="black"/>
+  <rect x="302" y="175" rx="5" ry="5" width="22" height="80" stroke="black" stroke-width="5" fill="black"/>
+  <rect x="230" y="182" rx="5" ry="5" width="13" height="60" stroke="white" stroke-width="5" fill="white"/>
+  <rect x="306" y="182" rx="5" ry="5" width="13" height="60" stroke="white" stroke-width="5" fill="white"/>
+  <rect x="168" y="150" rx="2" ry="2" width="22" height="80" stroke="black" stroke-width="5" fill="black"/>
+  <rect x="353" y="150" rx="2" ry="2" width="22" height="80" stroke="black" stroke-width="5" fill="black"/>
+  <path d="M181 150 C200 24,330 24,362,150" stroke="black" stroke-width="6" fill="none"/>
+
+  <path d="M192 140 L192 400" stroke="black"/>
+  <path d="M350 140 L350 400" stroke="black"/>
+  <path d="M192 140 Q271 3, 350 140" stroke="black" fill="none"/>
+  <path d="M192 400 Q218.5 430, 245 400" stroke="black" fill="none"/>
+  <path d="M245 400 Q271.5 430, 298 400" stroke="black" fill="none"/>
+  <path d="M298 400 Q324 430, 350 400" stroke="black" fill="none"/>
+  
+
+
+
+</svg>
